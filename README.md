@@ -5,7 +5,7 @@ Installation
 
 To run this application on your local machine, please follow these steps:
 
-Clone this repository using the following 
+Clone this repository using the following  command: https://dushyanthhd.github.io/Hospital_API/
 
 Install the required dependencies using the following command: $ npm install
 
